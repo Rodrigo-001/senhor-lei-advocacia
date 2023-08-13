@@ -63,6 +63,10 @@ h1, h2,h3 {
     text-align: right;
     padding: 50px 20px;
 }
+h1, .secao-background-conteudo h2 {   
+    color: #9A5504;
+    text-shadow: 1px 4px 8px rgba(0, 0, 0, 0.54);
+}
 /*------------------------------------------*/
 
 /*SOBRE*/
